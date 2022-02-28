@@ -15,6 +15,7 @@ public class ChatClient {
     } catch (IOException e) {
       //System.out.println("Erro ao iniciar cliente: " + e.getMessage());
       e.printStackTrace();
+
     }
   }
 }
